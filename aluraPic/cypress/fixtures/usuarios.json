@@ -1,0 +1,27 @@
+[
+    {
+        "email": "teste@teste.com.br",
+        "fullName": "Teste",
+        "userName": "teste123",
+        "passWord": "teste1234"
+    },
+    {
+        "email": "leandro@teste.com.br",
+        "fullName": "Leandro ferraz",
+        "userName": "leandro123",
+        "passWord": "leandro123"
+    },
+    {
+        "email": "giovanna@teste.com.br",
+        "fullName": "Giovanna Ferraz",
+        "userName": "giovanna123",
+        "passWord": "giovanna1234"
+    },
+    {
+        "email": "Administrador@teste.com.br",
+        "fullName": "Administrador",
+        "userName": "admin123",
+        "passWord": "admin1234"
+    }
+
+]

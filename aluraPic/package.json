@@ -1,0 +1,17 @@
+{
+  "name": "alurapic",
+  "version": "1.0.0",
+  "description": "Testar site Alura Pic",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Leandro Ferraz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^10.6.0"
+  },
+  "devDependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
